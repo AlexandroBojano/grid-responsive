@@ -1,0 +1,27 @@
+a {
+    color:red;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: rgba(128, 128, 128, 0.507);
+    box-shadow: 10px 1px 5px gray;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.h1 {
+    display:flex;
+    justify-content: start;
+    color: white;
+    background-color: black;
+    align-items: center;
+    padding: 10px;
+}
